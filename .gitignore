@@ -1,0 +1,23 @@
+# Python / Notebooks
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+*.ipynb
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Data & Models (متترفعش)
+data/
+datasets/
+outputs/
+logs/
+*.ckpt
+*.h5
+*.pt
+*.pth
+*.onnx
